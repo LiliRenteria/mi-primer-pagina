@@ -1,0 +1,48 @@
+
+header{ 
+
+    display:flex ; 
+    height: 70px; 
+    background-color: chocolate; 
+    justify-content:space-between ; 
+    align-items: center; 
+    padding: 10px; 
+
+} 
+
+body{ 
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    margin: 0; 
+} 
+
+.logo{ 
+
+    display: flex; 
+    align-items: center; 
+} 
+
+.logo img{ 
+
+    height: 50px; 
+    margin-right: 10px; 
+
+} 
+
+
+
+
+  .logo1 img{ 
+    height: 25px; 
+    margin-right: 5px; 
+    float: left; 
+  } 
+
+div.especial{
+    width: 25%;
+margin: 35%;
+align-items: center;
+
+
+}
+
